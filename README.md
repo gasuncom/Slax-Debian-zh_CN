@@ -2,10 +2,16 @@
 
 Login username / password : root/root and user/user
 
-01-core-update-20220906.sb
+## 01-core-update-20220906.sb   262.4MB
 
-01-linux-firmware-20220815.sb
+network-manager, getty autologin
 
-02-xorg.sb
+## 01-linux-firmware-20220815.sb    312.2MB
 
-03-sddm-lxqt_1.1-fcitx5.sb
+linux full firmware from <a>https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/</a>
+
+## 02-xorg.sb   88.9MB
+
+## 03-sddm-lxqt_1.1-fcitx5.sb  252.2B
+
+sddm autologin, lxqt 1.1 , featherpad, fcitx5 , mousepad
