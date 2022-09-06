@@ -1,4 +1,4 @@
-# Slax-Debian-zh_CN
+# Slax-Debian-zh_CN  chinese
 
 Login username / password : root/root and user/user
 
