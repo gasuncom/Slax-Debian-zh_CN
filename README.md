@@ -1,5 +1,7 @@
 # Slax-Debian-zh_CN
 
+Login username / password : root/root and user/user
+
 01-core-update-20220906.sb
 
 01-linux-firmware-20220815.sb
